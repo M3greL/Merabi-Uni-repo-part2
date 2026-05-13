@@ -1,0 +1,7 @@
+1. Inspected Musify app, i found hardcoded passwords in the registration (picture1)
+
+2. Musify App, missing MFA or any other simmiliar security
+
+3. Lack of Email verification. During registration app does not check if email is real, therefore any piece of code can be injected and can breack into the system
+
+4. 

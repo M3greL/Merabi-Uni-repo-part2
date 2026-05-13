@@ -1,0 +1,5 @@
+1. Continuous vulnarability scan of the company system. Proactive implementation would be schedule scan every month of the corporate network to find the incorrectly placed access rights, revoking outdated right and new vulnarabilities discovery
+
+2. Implementation of SIEM or EDR tools for end-point scanning and logs monitoring to find any suspicious activity like outgouing traffic and malicious processes.
+
+3. Phishing training and security training of employees. Sending training fishing emails to the development team and rewarding them for fishing reporting. It prevents real phishing and prepares them to face the real threat
