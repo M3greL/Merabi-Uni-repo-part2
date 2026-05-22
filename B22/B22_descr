@@ -1,0 +1,1 @@
+I have analysed the music app that is called Musify and identified a few issues with the app. I've implemented Email verification and password strength. I've setup the third-party service Resend that handles all the email sending and approval, also I've improved the password creation since it was very easy to create simple password that can be easily brute-forced. 

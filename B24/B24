@@ -1,0 +1,7 @@
+For this task I have iplemented the access controll that ensures that only users with aaccess can used certain files.
+It has three roles: Student, Teacher and Admin
+Teachers ar allowed and managed the classes they have created. Student can access the study nmaterials and view their classes. And finaly andmis are responsibnle for system wide settings and mannaging other users like teachers and students
+
+It uses the authorisation checks before the files accessed. E.g before apporving a student it system checks if user is logged in, weather he has a student role or teachers role etc. Buyt if a student will try to do the same actions he will be denied
+
+Therefore this t5ask demonstrates the diffwerence between authorisationand authentification.

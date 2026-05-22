@@ -1,0 +1,5 @@
+1. Zero trust architechture: crucial approach in modern cybersecurity architechture. Not like older designs zero trust does not trust any uer or device as soon as they enter network, which means continuos user verification, device checks and least-privilege access.
+
+2. Phishing resistant MFA: is a second important solutio in modern design where most of the systems rely on FIDO-based methods (Fast Identity Online). We cannot use calssic methods like SMS confirmation since it is vulnerable to phishing messages or social engeneering.
+
+3. Secure by design methods: third design, is when we build the security features alongside development of the software, but not after development. It creates a secure environment for testing and finding vulnarabilities early.

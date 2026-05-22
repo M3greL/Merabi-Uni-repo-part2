@@ -1,0 +1,17 @@
+I've explored the new CVEs of this year and i found one that is suitable for this task, the Microsoft Defender Denial of Service Vulnerability was released on May 20th 2026
+I've inputted to 3 different GPTs Gemini, ChatGPT 5.5 and Microsoft Copilot to compare the output and see if the solution is consistent. I gave all of them identical prompt to see the following oputput
+Prompt: Task: Provide a written solution with a short code snippet on solving the following common vulnarabilities and exposures.
+Microsoft Defender Denial of Service Vulnerability
+
+1. Gemini (pic 1)
+Gemini provided a written code solution to audit the files that are scanned by defender, then forsing to pull the latest updated binaries from MS and validating the scanned files. This ensures that even if the malicious script is triggered it wont stop the defender
+
+2. ChatGPT (pic 2)
+ChatGPT provided different solution for that. It suggested to run the script before the scanning to ensure that any device that is belove certain version is updated to minimize the risk of this denial. It takes the version of the defender and other scanning Microsoft tools and updates it so it can protect from the CVE.  
+
+3. Copilot (pic 3)
+Copilot has very similliar solutions to ChatGPT, it provides a script that will keep the defender system updated to the latest patched version to ensure that the common threat could not be used against the system
+
+Summary:
+
+All AI's provided solid solution for resolving this issue, they were very consistent in their solutions since all the solutions are simmiliar or at least have similliar idea. However, i see the potential future threat in copilot's and ChatGPT's solution since it is only a temporari solution from this vulnarability, if in future newer versions will be exposed to the same issue it can cause a lot of problems.

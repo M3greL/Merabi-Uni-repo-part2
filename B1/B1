@@ -4,4 +4,6 @@
 
 3. Lack of Email verification. During registration app does not check if email is real, therefore any piece of code can be injected and can breack into the system
 
-4. 
+4. Weak password security can be a big issue at enterprise level, when users creating new accounts with simple pwd like "123" or "12345678"
+
+5. Using the same credentials on all the websites and for all accounts can lead to sing point of exposure if one of the providers will be hacked password can be used to hack into other platforms such as Banks, personal data storages and Medical records access.
